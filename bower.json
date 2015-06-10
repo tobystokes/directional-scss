@@ -1,0 +1,18 @@
+{
+  "name": "directional-scss",
+  "version": "0.1",
+  "homepage": "https://github.com/tobystokes/directional-scss",
+  "description": "Makes supporting CSS for left-to-right (LTR) and right-to-left (RTL) easy with SASS.",
+  "main": "directional.scss",
+  "keywords": [
+    "scss",
+    "sass"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
